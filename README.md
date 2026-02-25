@@ -9,6 +9,7 @@
     <li> Cursando o Ensino Médio </li>
 </ul>
 
+<div>[![GitHub Streak](https://streak-stats.demolab.com?user=Invictus-potens&theme=radical)](https://git.io/streak-stats)<div>
 
 
 <div align="left" >
